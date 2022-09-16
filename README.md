@@ -17,7 +17,7 @@
 
 <h3>Publicações</h3>
 
-Jim Highsmith publicou vários artigos e livros. Uma seleção:
+<p>Jim Highsmith publicou vários artigos e livros. Uma seleção:</p>
 <ul>
  <li>1999 Desenvolvimento de Software Adaptativo: Uma Abordagem Colaborativa para Gerenciar Sistemas Complexos . Editora Dorset House.</li>
  <li>2002 Ecossistemas de Desenvolvimento de Software Ágil . Prefácio de Tom DeMarco . Educação Addison-Wesley Pearson.</li>
